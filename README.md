@@ -12,12 +12,6 @@ These are the core technologies I work with, maintained under a pragmatic and pr
 
 ---
 
-### 📊 GitHub Metrics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=BookerRues9&show_icons=true&theme=dracula&title_color=6f42c1&icon_color=6f42c1&text_color=ffffff&bg_color=0d1117" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BookerRues9&layout=compact&theme=dracula&title_color=6f42c1&icon_color=6f42c1&text_color=ffffff&bg_color=0d1117" height="150" alt="Top Languages" />
-</p>
-
 ### 🔭 Current Focus
 - 🔭 **Working on:** Modernizing and archiving legacy Android projects with high-performance standards.
 - 🌱 **Learning:** Deepening my knowledge in JNI and system-level hooking for Android.
@@ -25,3 +19,4 @@ These are the core technologies I work with, maintained under a pragmatic and pr
 - ⚡ **Fun fact:** I value system stability and minimalist environments above all else.
 
 ---
+McArthur 2026
