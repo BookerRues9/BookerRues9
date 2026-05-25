@@ -64,8 +64,9 @@ I prioritize stability, clean architecture, performance, and maintainable native
 
 # Repository Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BookerRues9&layout=compact&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BookerRues9&show_icons=false&theme=dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BookerRues9&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BookerRues9&show_icons=true&theme=dark)
 
 ---
 
